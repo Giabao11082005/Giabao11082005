@@ -1,15 +1,23 @@
-## Greeting 👋
-Hello there! My name is Hoang Gia Bao, and I'm a second-year Information Technology student at the University of Transport and Communications (UTH).
+### 👋 Greeting 
+Hello there!
+I'm [Hoang Gia Bao], a second-year Information Technology student at Ho Chi Minh City University ò Transport (UTH). I'm always on the lookout for opportunities to learn, grow, and listen to new ideas.
 
-## 🚀 My skills
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> <br>
-<img src="https://th.bing.com/th/id/OIP.FT5u6DsS1lUu0CRwutBxTAHaEK?w=275&h=180&c=7&r=0&o=7&dpr=2.5&pid=1.7&rm=3" alt="G0" width="40" height="40"/> <br>
-<img src="https://th.bing.com/th/id/OIP.0zBLgzuWyptrTU8S0H1xdgHaHa?w=173&h=180&c=7&r=0&o=7&dpr=2.5&pid=1.7&rm=3" alt="JavaScript" width="40" height="40"/> <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/500px-Node.js_logo.svg.png" alt="Node.js" width="40" height="40"/> <br>
-<img src="https://th.bing.com/th/id/OIP.wtbphh9buB7NAjHoCtv74wAAAA?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" alt="HTML" width="40" height="40"/> <br>
-<img src="https://th.bing.com/th/id/R.68e6a101a546d9511de9fe35fadf3288?rik=obGy%2bv6VYjaS6Q&pid=ImgRaw&r=0" alt="CSS" width="40" height="40"/> <br>
-<img src="https://tse4.mm.bing.net/th/id/OIP.LQkhP56Kkv8-KW2bgwQaNAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="TypeScript" width="40" height="40" />
+Driven by a proactive and curious mindset, I believe my knowledge and skills can bring value to our community. I'm eager to connect and support you all in tackling challenges and building amazing things together. Let's create something great!
 
+### 🚀 What I can do ?
+- Languages: C++/C, JavaScript, Go, Py
+- Frontend: HTML, CSS
+- Backend: Node.js, Express.js, Hono, Gin
+- Databases: MongoDB, My SQL
+- Cloud & Tools:Docker basic, Kubernetes, VsCode, Postman, Jira
 
+### 🌍 Connect With Me!
+📧 Email: [hoanggiabao110820055@gmail.com]
+📞 Phone: [+84 388661185]
+🌐 Portfolio: [#]
+💼 LinkedIn: [https://www.linkedin.com/in/gbao1108/]
+
+### ✨ Notes
+*"Turning Ideas into Impact"*
 <!--
 **Giabao11082005/Giabao11082005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
