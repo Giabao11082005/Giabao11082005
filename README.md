@@ -11,10 +11,10 @@ Driven by a proactive and curious mindset, I believe my knowledge and skills can
 - Databases: MongoDB, My SQL
 - Cloud & Tools:Docker basic, Kubernetes, VsCode, Postman, Jira
 
-### 🌍 Connect With Me!
-📧 Email: [hoanggiabao110820055@gmail.com]
-📞 Phone: [+84 388661185]
-🌐 Portfolio: [#]
+### 🌍 Connect With Me! 
+📧 Email: [hoanggiabao110820055@gmail.com] <br>
+📞 Phone: [+84 388661185] <br>
+🌐 Portfolio: [#] <br>
 💼 LinkedIn: [https://www.linkedin.com/in/gbao1108/]
 
 ### ✨ Notes
